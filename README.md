@@ -1,3 +1,14 @@
+<div align="center">
+  <br />
+    <a href="/" target="_blank">
+      <img src="" alt="Project Banner">
+    </a>
+  <br />
+
+  <div>
+   
+    <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=06B6D4" alt="tailwindcss" />
+  </div>
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
