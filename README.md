@@ -1,10 +1,9 @@
 <div align="center">
   <br />
     <a href="/" target="_blank">
-      <img src="" alt="Project Banner">
+      <img src="https://github.com/sardorazimov/landinganimation/blob/master/public/banner.png?raw=true" alt="Project Banner">
     </a>
   <br />
-   
    
   </div>
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
